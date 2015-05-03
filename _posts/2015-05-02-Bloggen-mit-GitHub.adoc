@@ -1,0 +1,25 @@
+= Bloggen mit GitHub
+
+:published_at: 2015-05-02
+
+:hp-tags: Tagebuch, Onlineleben, Github
+
+Mit HubPress lässt sich mit GitHub bloggen. Die Einträge werden als 
+Textdateien im Repository abgelegt. Dort lassen sich auch Fotos 
+ablegen.
+
+== Texte von Format
+
+Den *Text* formatiert man mit link:http://asciidoc.org/[AsciiDoc],
+einer einfachen Auszeichnungssprache. Mit ihr kann man ...
+
+* ... ganz einfach
+* Listen
+* anlegen!
+
+Die Live-Vorschau auf der rechten Seite zeigt die Auswirkungen der 
+Formatierung sofort an. Das ist _äußerst praktisch_.
+
+YouTube Video: 
+
+video::BROWqjuTM0g[youtube]
